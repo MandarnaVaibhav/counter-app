@@ -8,13 +8,13 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #5e9fdc;
+  background-color: #1cc8db;
   font-family: Arial, sans-serif;
 }
 
 .counter-box {
   text-align: center;
-  background: #ffffff;
+  background: #d2d4ce;
   padding: 40px;
   border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
@@ -40,7 +40,7 @@ button {
 }
 
 button:hover {
-  background-color: #23a6d2;
+  background-color: #75d223;
 }
 
 p {
